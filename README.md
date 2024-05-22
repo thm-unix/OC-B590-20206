@@ -1,5 +1,5 @@
 # OC-B590-20206
-OpenCore (v. 0.9.2) config for Lenovo B590 (20206). Tested with 10.8.5 Mountain Lion but may work on later versions too.
+OpenCore (v. 0.9.2) config for Lenovo B590 (20206). Tested with 10.8.5 Mountain Lion ~~but may work on later versions too~~.
 
 ## Setup
 1. Generate `MacBookPro9,2` SMBIOS and put it into config.plist
