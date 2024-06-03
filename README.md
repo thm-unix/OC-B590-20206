@@ -32,7 +32,7 @@ OpenCore (v. 0.9.2) config for Lenovo B590 (20206). Tested with 10.8.5 Mountain 
    8. On `Startup` tab (for convenience) go to `Boot` section and set your USB drive as the first device in boot priority
    9. Save & Reboot
 10. Boot from your USB stick and choose installer
-11. Don't forget to set date in Terminal (you can google that for your version of OS X)
+11. Don't forget to set date in Terminal (you can google that for your version of OS X; `date 0101010113` for 10.8.5)
 12. Perform usual installation
 13. Mount EFI partition of your system drive
 14. Copy `EFI` directory on EFI partition of your system drive
